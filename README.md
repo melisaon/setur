@@ -41,6 +41,7 @@
  ##### 3.6.3. Click "Uygula"
  ##### 3.7. Click "Ara".
  ### 4. Safe Hotel List
- 
+ ##### 4.1. Go to setur.com.tr
+ ##### 4.2. Click on "Güvenli Turizm Sertifikası Olan Oteller" card.
     
     
