@@ -18,9 +18,24 @@ Meaning, new comers should not break the existing ones.
 That is a common problem on the development. Therefore, it is appropriate to make formal, regression and post production tests afterwards.
     
  ### Scenarios on the frond end test automation
- 1. City Hotels Search
- 2. Custom Location
- 3. Main Page Bilkent Hotel Search
+ #### 1. City Hotels Search
+ 1.1. Go to setur.com.tr
+ 1.2. Click on "Otel" tab.
+ 1.3. Click on a city name under "Şehir Otelleri"
+ #### 2. Custom Location
+ 2.1. Go to setur.com.tr
+ 2.2. Go to the footbar and click on a specific location like "Çeşme Otelleri"
+ #### 3. Main Page Bilkent Hotel Search
+ 3.1. Go to setur.com.tr
+ 3.2. Type "Bilkent" on "otel veya konum yazın".
+ 3.3. Click on "Giriş Tarihi" and select an entrance day.
+ 3.4. Select the "Çıkış Tarihi" by selecting an exit day.
+ 3.5. Select the room count.
+ 3.6. Click on "2 yetişkin" if you have more or less number of people or if you have a children. 
+ 3.6.1. If you have more or less than 2 adults click on "2 Yetişkin" then make a selection over pop up by updating the count.
+ 3.6.2. If you have more or less than 2 adults and have 1 or more children click on "2 Yetişkin" then make a selection over pop up by updating the count on adults and then click on "Çocuk" and update the count over there as well. 
+ 3.6.3. Click "Uygula"
+ 3.7. Click "Ara".
  4. Safe Hotel List
  
     
