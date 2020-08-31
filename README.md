@@ -9,7 +9,13 @@
  ### What is the type of the test that needs to be considered?
  ### What are the periodical tests that needs to be completed during the sprint cycle?
   
-    Test should be made in two branches, Front End and Back End. For the back end side, a test can be run when there is no precondition expected and the deploys are completed. There can be various types of test but first two to consider as a priority should be happy and invalid paths. For the Front End side, there should be a test environment, and when the environment is ready to test, there should be functionality testing for the new features. When it is completed informally, process can be followed by formal, regression and post production tests. During those tests, the idea would be to first test the new features. Then, second, make sure the system is working efficienty after the new features are added. Meaning, new comers should not break the existing ones. That is a common problem on the development. Therefore, it is appropriate to make formal, regression and post production tests afterwards.
+    Test should be made in two branches, Front End and Back End.
+For the back end side, a test can be run when there is no precondition expected and the deploys are completed. There can be various types of test but first two to consider as a priority should be happy and invalid paths.
+For the Front End side, there should be a test environment, and when the environment is ready to test, there should be functionality testing for the new features.
+When it is completed informally, process can be followed by formal, regression and post production tests.
+During those tests, the idea would be to first test the new features. Then, second, make sure the system is working efficienty after the new features are added.
+Meaning, new comers should not break the existing ones.
+That is a common problem on the development. Therefore, it is appropriate to make formal, regression and post production tests afterwards.
     
  ### Scenarios on the frond end test automation
  1. City Hotels Search
